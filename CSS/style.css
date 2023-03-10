@@ -22,8 +22,7 @@
 
 }
 .nav li:hover{
-    border: 1px solid white;
-    border-radius: 100%;
+   backgroung-color:grey;
 }
 #nav1{
     display: inline-block;
