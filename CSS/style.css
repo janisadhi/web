@@ -1,0 +1,57 @@
+
+
+#image{
+    
+    margin: auto;
+    background-image:url('himal.jpg');
+    width:86%;
+    height:650px;
+    
+}
+.nav{
+    
+    border: 1px solid black;
+    height: 50px;
+    
+}
+.nav li{
+    display:inline;
+    margin:40px;
+    font-size: 20px;
+    padding:5px;
+
+}
+.nav li:hover{
+    border: 1px solid white;
+    border-radius: 100%;
+}
+#nav1{
+    display: inline-block;
+    position: absolute;
+    left: 0%;
+    width:25%;
+}
+#nav2{
+    text-align: center;
+    display: block;
+    margin:auto;
+    width:40%;
+    
+}
+#nav3{
+    
+    width:25%;
+    display: inline-block;
+    position: absolute;
+    top:6px;
+    right:0px;
+}
+header{
+    position: fixed;
+    top:0px;
+    right: 0px;
+    left: 0px;
+    background-color: black;
+    color: azure;
+    height: 60px;
+}
