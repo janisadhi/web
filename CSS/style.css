@@ -186,18 +186,10 @@
 }
 #ser1{
     background-color: rgb(184, 171, 53);
-    animation-name: first;
-    animation-iteration-count: 5;
+   
     
 }
-@keyframes first{
-    from{
-        width:0%;
-    }
-    to{
-       width:50%;
-    }
-}
+
 #ser2{
 
 }
